@@ -7,8 +7,8 @@
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
 	
-		<link rel="stylesheet" href="{{asset('assets/css/ionicons.min.css')}}">
-		<link rel="stylesheet" href="{{asset('assets/css/style.css')}}">
+		<link rel="stylesheet" href="{{secure_asset('assets/css/ionicons.min.css')}}">
+		<link rel="stylesheet" href="{{secure_asset('assets/css/style.css')}}">
   </head>
   <body>
 		<footer class="footer-06">
