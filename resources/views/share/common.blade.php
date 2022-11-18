@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="{{secure_asset('assets/style.css')}}">
     {{-- <script src="https://cdn.tailwindcss.com"></script> --}}
     <link rel="stylesheet" href="{{secure_asset('public/build/manifest.json')}}">
-    @vite(['resources/sass/app.scss'])
+  
     
     <title>@yield('title')</title>
   </head>
