@@ -235,7 +235,7 @@
 
 
 <!-- This is my swipper section start-->
-<section id="reviews" class="pt-5 mb-2 content">
+<section id="reviews" class="pt-5 mb-2 content_data">
   <h3 class="text-center">Reviews Our Clients</h3>
   <div class="swiper">
     <!-- Additional required wrapper -->
