@@ -1,6 +1,37 @@
 @extends('share.common')
 @section('title', 'Home')
-
+<style>
+  .content_data{
+    max-width: 1300px;
+    margin: auto;
+}
+  
+.swiper {
+    padding: 22px !important;
+}
+  
+.swiper .swiper-button-prev {
+    left: 0px;
+}
+.swiper .swiper-button-next {
+    right: 0px;
+}
+  
+.swiper .swiper-button-prev,
+.swiper .swiper-button-next {
+    width: 32px;
+    height: 32px;
+    color: #ffffff;
+    background-color: #363636;
+    border-radius: 50%;
+}
+  
+.swiper .swiper-button-prev::after,
+.swiper .swiper-button-next::after {
+    font-size: 20px;
+    margin-top: 2px;
+}
+</style>
 @section('content')
 
 <!--This is my slider sextion here start section--- --->
