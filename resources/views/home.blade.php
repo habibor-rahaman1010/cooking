@@ -236,7 +236,7 @@
 
 <!-- This is my swipper section start-->
 <section id="reviews" class="pt-5 mb-2 content">
-  <h3 class="text-center">Reviews</h3>
+  <h3 class="text-center">Reviews Our Clients</h3>
   <div class="swiper">
     <!-- Additional required wrapper -->
     <div class="swiper-wrapper">
@@ -244,17 +244,14 @@
       <div class="swiper-slide">
         <div class="shadow p-3">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Pariatur sed, reiciendis delectus molestiae ducimus facere
-            dolores quasi autem fugiat a unde debitis inventore nulla
-            mollitia similique vero aliquid animi quo.
+            You will find number of recipe online. Some might be correctly posted some may not. Recipes what you read will not be the same what you find after preparation. There are number of recipes you will find online which are incorrect. So in order to get right recipes.
           </p>
           <div class="d-flex align-items-center">
             <img
               height="60"
               width="60"
               class="rounded-pill me-2"
-              src="images/profile_user.jpg"
+              src="{{asset('assets/images/review/user1.webp')}}"
               alt=""
             />
             <h6>Harun Or Roshid</h6>
@@ -274,7 +271,7 @@
               height="60"
               width="60"
               class="rounded-pill me-2"
-              src="images/user-2.jpeg"
+              src="{{asset('assets/images/review/user2.jpg')}}"
               alt=""
             />
             <h6>Arman Malek</h6>
@@ -294,7 +291,7 @@
               height="60"
               width="60"
               class="rounded-pill me-2"
-              src="images/user-3.jpg"
+              src="{{asset('assets/images/review/user3.jpeg')}}"
               alt=""
             />
             <h6>Rohman Khan</h6>
@@ -314,7 +311,7 @@
               height="60"
               width="60"
               class="rounded-pill me-2"
-              src="images/user5.webp"
+              src="{{asset('assets/images/review/user4.jpg')}}"
               alt=""
             />
             <h6>Bidushkat Dsas</h6>
@@ -334,7 +331,7 @@
               height="60"
               width="60"
               class="rounded-pill me-2"
-              src="images/user-7.jpg"
+              src="{{asset('assets/images/review/user5.jpg')}}"
               alt=""
             />
             <h6>Asduoa Janikla</h6>
