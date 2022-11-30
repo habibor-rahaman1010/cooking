@@ -90,7 +90,8 @@
     width: 600px;
 }
 
-.content_data{
+
+/* .content_data{
     max-width: 1300px;
     margin: auto;
 }
@@ -119,4 +120,4 @@
 .swiper .swiper-button-next::after {
     font-size: 20px;
     margin-top: 2px;
-}
+} */
