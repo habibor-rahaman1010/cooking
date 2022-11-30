@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://kit.fontawesome.com/e21bebfc6d.js" crossorigin="anonymous"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-    {{-- <link rel="stylesheet" href="{{secure_asset('assets/style.css')}}"> --}}
-    <link rel="stylesheet" href="{{asset('assets/style.css')}}">
+    <link rel="stylesheet" href="{{secure_asset('assets/style.css')}}">
+    {{-- for localhost this link  --}}
+    {{-- <link rel="stylesheet" href="{{asset('assets/style.css')}}"> --}}
 
 
     {{-- <script src="https://cdn.tailwindcss.com"></script> --}}
@@ -17,9 +18,7 @@
 
     <title>@yield('title')</title>
 
-    <script
-    defer
-    src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"
+    <script defer src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"
   ></script>
   <script defer src="{{asset('assets/app.js')}}"></script>
   </head>
