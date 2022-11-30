@@ -90,9 +90,9 @@
     width: 600px;
 }
 
-#reviews{
-    max-width: 1300px !important;
-    margin: auto !important;
+.content_data{
+    max-width: 1300px;
+    margin: auto;
 }
   
 .swiper {
