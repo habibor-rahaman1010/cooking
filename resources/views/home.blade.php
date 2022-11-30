@@ -261,10 +261,7 @@
       <div class="swiper-slide">
         <div class="shadow p-3">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Pariatur sed, reiciendis delectus molestiae ducimus facere
-            dolores quasi autem fugiat a unde debitis inventore nulla
-            mollitia similique vero aliquid animi quo.
+            You will find number of recipe online. Some might be correctly posted some may not. Recipes what you read will not be the same what you find after preparation. There are number of recipes you will find online which are incorrect. So in order to get right recipes.
           </p>
           <div class="d-flex align-items-center">
             <img
@@ -281,10 +278,7 @@
       <div class="swiper-slide">
         <div class="shadow p-3">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Pariatur sed, reiciendis delectus molestiae ducimus facere
-            dolores quasi autem fugiat a unde debitis inventore nulla
-            mollitia similique vero aliquid animi quo.
+            You will find number of recipe online. Some might be correctly posted some may not. Recipes what you read will not be the same what you find after preparation. There are number of recipes you will find online which are incorrect. So in order to get right recipes.
           </p>
           <div class="d-flex align-items-center">
             <img
@@ -301,10 +295,7 @@
       <div class="swiper-slide">
         <div class="shadow p-3">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Pariatur sed, reiciendis delectus molestiae ducimus facere
-            dolores quasi autem fugiat a unde debitis inventore nulla
-            mollitia similique vero aliquid animi quo.
+            You will find number of recipe online. Some might be correctly posted some may not. Recipes what you read will not be the same what you find after preparation. There are number of recipes you will find online which are incorrect. So in order to get right recipes.
           </p>
           <div class="d-flex align-items-center">
             <img
@@ -321,10 +312,7 @@
       <div class="swiper-slide">
         <div class="shadow p-3">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Pariatur sed, reiciendis delectus molestiae ducimus facere
-            dolores quasi autem fugiat a unde debitis inventore nulla
-            mollitia similique vero aliquid animi quo.
+            You will find number of recipe online. Some might be correctly posted some may not. Recipes what you read will not be the same what you find after preparation. There are number of recipes you will find online which are incorrect. So in order to get right recipes.
           </p>
           <div class="d-flex align-items-center">
             <img
