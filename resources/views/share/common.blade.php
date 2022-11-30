@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="{{asset('assets/style.css')}}">
     {{-- <script src="https://cdn.tailwindcss.com"></script> --}}
     {{-- <link rel="stylesheet" href="{{secure_asset('public/build/manifest.json')}}"> --}}
+    <link rel="stylesheet"href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
     @vite('resources/css/app.css')
 
     <title>@yield('title')</title>

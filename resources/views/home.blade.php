@@ -231,6 +231,123 @@
 
     </div>
 </div>
-
 <!-- This is my time schedule section here end section-->
+
+
+<!-- This is my swipper section start-->
+<section id="reviews" class="pt-5 mb-2">
+  <h3 class="text-center">Reviews</h3>
+  <div class="swiper">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      <div class="swiper-slide">
+        <div class="shadow p-3">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Pariatur sed, reiciendis delectus molestiae ducimus facere
+            dolores quasi autem fugiat a unde debitis inventore nulla
+            mollitia similique vero aliquid animi quo.
+          </p>
+          <div class="d-flex align-items-center">
+            <img
+              height="60"
+              width="60"
+              class="rounded-pill me-2"
+              src="images/profile_user.jpg"
+              alt=""
+            />
+            <h6>Harun Or Roshid</h6>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="shadow p-3">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Pariatur sed, reiciendis delectus molestiae ducimus facere
+            dolores quasi autem fugiat a unde debitis inventore nulla
+            mollitia similique vero aliquid animi quo.
+          </p>
+          <div class="d-flex align-items-center">
+            <img
+              height="60"
+              width="60"
+              class="rounded-pill me-2"
+              src="images/user-2.jpeg"
+              alt=""
+            />
+            <h6>Arman Malek</h6>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="shadow p-3">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Pariatur sed, reiciendis delectus molestiae ducimus facere
+            dolores quasi autem fugiat a unde debitis inventore nulla
+            mollitia similique vero aliquid animi quo.
+          </p>
+          <div class="d-flex align-items-center">
+            <img
+              height="60"
+              width="60"
+              class="rounded-pill me-2"
+              src="images/user-3.jpg"
+              alt=""
+            />
+            <h6>Rohman Khan</h6>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="shadow p-3">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Pariatur sed, reiciendis delectus molestiae ducimus facere
+            dolores quasi autem fugiat a unde debitis inventore nulla
+            mollitia similique vero aliquid animi quo.
+          </p>
+          <div class="d-flex align-items-center">
+            <img
+              height="60"
+              width="60"
+              class="rounded-pill me-2"
+              src="images/user5.webp"
+              alt=""
+            />
+            <h6>Bidushkat Dsas</h6>
+          </div>
+        </div>
+      </div>
+      <div class="swiper-slide">
+        <div class="shadow p-3">
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Pariatur sed, reiciendis delectus molestiae ducimus facere
+            dolores quasi autem fugiat a unde debitis inventore nulla
+            mollitia similique vero aliquid animi quo.
+          </p>
+          <div class="d-flex align-items-center">
+            <img
+              height="60"
+              width="60"
+              class="rounded-pill me-2"
+              src="images/user-7.jpg"
+              alt=""
+            />
+            <h6>Asduoa Janikla</h6>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- If we need navigation buttons -->
+    <div onclick="swiper.slidePrev()" class="swiper-button-prev"></div>
+    <div onclick="swiper.slideNext()" class="swiper-button-next"></div>
+  </div>
+</section>
+
+<!-- This is my swipper section end-->
+
 @endsection
