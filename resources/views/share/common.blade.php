@@ -21,6 +21,7 @@
 
   @vite('resources/css/app.css')
   <title>@yield('title')</title>
+  
   </head>
 
 
